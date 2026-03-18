@@ -88,5 +88,3 @@ All testing was conducted using read-only GET requests only. No exploitation, au
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com)
 - [Future Interns](https://www.linkedin.com/company/future-interns)
 ```
-
----
